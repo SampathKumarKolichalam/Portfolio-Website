@@ -94,6 +94,7 @@ This project has my Professional and Personal data. Please Connect with me via E
 
 ## 👨‍💻 **Connect with Me**
 📧 Email: [sampathkumarkolichalam@gmail.com]
+
 🔗 LinkedIn: [https://www.linkedin.com/in/sampath-kumar-kolichalam-18b57b1ab/]
 
 ---
