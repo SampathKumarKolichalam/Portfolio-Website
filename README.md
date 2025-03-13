@@ -78,7 +78,7 @@ docker-compose up --build
 Fork the repo, make your changes, and submit a pull request!  
 
 ```sh
-git clone https://github.com/yourusername/Portfolio-Website.git
+git clone https://github.com/SampathKumarKolichalam/Portfolio-Website.git
 git checkout -b feature-branch
 git commit -m "Added new feature"
 git push origin feature-branch
