@@ -34,10 +34,10 @@ This is a **personal portfolio website** designed to highlight my projects, tech
 
 ---
 
-## 🔧 **Installation & Setup**
+## **Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/Portfolio-Website.git
+git clone https://github.com/SampathKumarKolichalam/Portfolio-Website.git
 cd Portfolio-Website
 ```
 
@@ -68,14 +68,13 @@ docker-compose up --build
 
 ---
 
-## 🔥 **AI Chatbot Overview**
+## **AI Chatbot Overview**
 🔹 The AI chatbot assists users with general queries about projects, technologies, and portfolio navigation.  
 🔹 Implemented using **Node.js** & **Machine Learning APIs**.  
 
 ---
 
-## 🤝 **Contributing**
-💡 **Want to improve this project?**  
+## 🤝 **Contributing** **Want to improve this project?**  
 Fork the repo, make your changes, and submit a pull request!  
 
 ```sh
