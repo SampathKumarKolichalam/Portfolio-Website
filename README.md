@@ -46,13 +46,14 @@ cd Portfolio-Website
 cd backend
 npm install
 node server.js
+npm start
 ```
 
 ### **3️⃣ Setup Frontend**
 ```sh
 cd frontend
 npm install
-npm start
+npm run dev
 ```
 
 ### **4️⃣ Running with Docker (Optional)**
