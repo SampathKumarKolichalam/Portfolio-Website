@@ -1,0 +1,60 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ensure smooth theme transitions */
+body {
+    transition: background 0.3s ease, color 0.3s ease;
+}
+
+/* Set default font and background */
+body {
+    @apply bg-gray-100 text-gray-900 dark:bg-gray-900 dark:text-white;
+    font-family: "Inter", sans-serif;
+}
+
+/* Ensure full height for proper scrolling */
+html, body {
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+/* Container utility for consistent spacing */
+.container {
+    @apply mx-auto px-4;
+}
+
+/* Header & Navbar Styles */
+header {
+    @apply shadow-md transition duration-300;
+}
+
+/* Button Styling */
+button {
+    @apply transition-all duration-300 ease-in-out;
+}
+
+/* Navbar Link Styling */
+nav a {
+    @apply text-lg font-medium hover:text-blue-500;
+}
+
+/* Active Link Styling */
+nav a.active {
+    @apply text-blue-600 font-bold underline;
+}
+
+/* Mobile Navigation Styling */
+nav.mobile-nav {
+    @apply p-4 bg-gray-800 text-white rounded-md shadow-lg;
+}
+
+/* Smooth Theme Switching */
+.dark body {
+    @apply bg-gray-900 text-white;
+}
+
+/* Additional Fix: Prevent Flash of Light Mode */
+html {
+    background-color: #111; /* Prevents white flash in dark mode */
+}
