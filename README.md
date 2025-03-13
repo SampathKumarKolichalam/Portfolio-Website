@@ -88,11 +88,12 @@ git push origin feature-branch
 ---
 
 ## 📜 **License**
-This project is licensed under the **MIT License**. Feel free to use and modify it.  
+This project has my Professional and Personal data. Please Connect with me via Email or LinkedIn to use it.
 
 ---
 
 ## 👨‍💻 **Connect with Me**
 📧 Email: [sampathkumarkolichalam@gmail.com]
 🔗 LinkedIn: [https://www.linkedin.com/in/sampath-kumar-kolichalam-18b57b1ab/]
+
 ---
